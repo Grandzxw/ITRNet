@@ -1,1 +1,1 @@
-# WRGloc
+# ResGloc
